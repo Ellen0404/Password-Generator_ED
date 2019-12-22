@@ -21,7 +21,7 @@ If you want to generate a new password just press the "Generate Password " butto
 Thank you for choosing my application ! Have fun with it ! <br>
 
 PS. Here is a link to the deployed GitHub Pages <br>
-<a href ="#">Link to my GITHUB repo</a>
+<a href ="https://ellen0404.github.io/Password-Generator_ED/">Link to my Application</a>
 
 
 
